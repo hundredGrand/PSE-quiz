@@ -1,5 +1,6 @@
 # PSE-quiz
 
 
-Gwendolyn Goetz, gwendolyn.l.goetz@vanderbilt.edu, goetzgl
-Madelyn Porter, madelyn.g.porter@vanderbilt.edu, portermg
+Partner 1: Gwendolyn Goetz, gwendolyn.l.goetz@vanderbilt.edu, goetzgl
+
+Partner 2: Madelyn Porter, madelyn.g.porter@vanderbilt.edu, portermg
